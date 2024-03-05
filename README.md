@@ -20,24 +20,24 @@ Click here to access our website and contact us today to discuss your project re
 
 # Development Process
 - ### Initial Commit by Abdul Basit
-Actions: Created initial site structure, including header and footer.
-Purpose: Set the foundation for the website layout.
+#### Actions: Created initial site structure, including header and footer.
+#### Purpose: Set the foundation for the website layout.
 
 - ### Sumair's Contribution
-Actions: Added the Home Page and About Us section.
-Purpose: Provided essential information about Tokyo Solutions.
+#### Actions: Added the Home Page and About Us section.
+#### Purpose: Provided essential information about Tokyo Solutions.
 
 - ### Mehek's Contribution
-Actions: Added the Our Services page and My Portfolio page.
-Purpose: Showcased Tokyo Solutions' services and Mehek's work.
+#### Actions: Added the Our Services page and My Portfolio page.
+#### Purpose: Showcased Tokyo Solutions' services and Mehek's work.
 
 - ### Noor's Contribution
-Actions: Added the Meet the Team page and Contact Us page.
-Purpose: Introduced the Tokyo Solutions team and provided contact information.
+#### Actions: Added the Meet the Team page and Contact Us page.
+#### Purpose: Introduced the Tokyo Solutions team and provided contact information.
 
 - ### Final Commit by #Abdul Basit
-Actions: Added CSS and SCSS to the index file.
-Purpose: Styled the website, improving its visual appeal and user experience.
+#### Actions: Added CSS and SCSS to the index file.
+#### Purpose: Styled the website, improving its visual appeal and user experience.
 
 # Conclusion
 The Tokyo Solutions website development was a collaborative effort, with each team member contributing unique skills and content. The website now effectively showcases Tokyo Solutions' services in web development, digital marketing, and creative graphic design, thanks to the combined efforts of Abdul Basit, Sumair, Mehek, and Noor.
